@@ -1,0 +1,17 @@
+//**************************
+//*** Input file myfile.va *
+//**************************
+`include "disciplines.h"
+(*p1="v1" p2="v2"*)
+module mymodule (t1,t2);
+inout t1,t2;
+electrical t1,t2;
+(*desc="input param p1" unit="no"*) parameter real p1=1.0;
+real v1;
+real v2;
+analog
+  begin
+    v1=1.0;
+    I(t1,t2)<+v1*V(t1,t2) (*source="resistive contrib"*);
+  end
+endmodule
