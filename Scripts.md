@@ -16,6 +16,12 @@ Name | Description | Usage | Recent Changes | WasBug?
 [attributes.xml]() 	    | illustrates how to play with Verilog-AMSattributes | admsXml -e attributes.xml 	| 21dec2007: updated for 2.2.8 	|no
 [blockvariables.xml]()  | illustrates how to manipulate block variables (variables defined inside begin...end) | admsXml -e blockvariables.xml 	| 21dec2007: updated for 2.2.8 	|-
 [vlatovla.xml]()        |	Verilog-ams to Verilog-ams converter - used for auto-testing | admsXml [analogfunction.va]() -e vlatovla.xml 	| 21dec2007: updated for 2.2.8 	|no
+[arobavariables.xml]() | --- | --- | --- | ---
+[croixvariable.xml]() | --- | --- | --- | ---
+[dependency.xml]() | --- | --- | --- | ---
+[gettransform.xml]() | --- | --- | --- | ---
+[strutils.xml]() | --- | --- | --- | ---
+[vlatommlMODULE.htm.xml]() | --- | --- | --- | ---
 
 ---
 
