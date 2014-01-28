@@ -1,0 +1,49 @@
+A:link {
+	FONT-WEIGHT: normal; COLOR: #405876; TEXT-DECORATION: underline
+}
+A:visited {
+	FONT-WEIGHT: normal; COLOR: #405876; TEXT-DECORATION: underline
+}
+A:hover {
+	FONT-WEIGHT: normal; COLOR: #003299; TEXT-DECORATION: underline
+}
+A:active {
+	FONT-WEIGHT: normal; COLOR: #000000; TEXT-DECORATION: underline
+}
+
+
+P {
+	FONT-SIZE: 12px; COLOR: #666666; FONT-FAMILY: Arial, Helvetica, Sans-serif FONT-WEIGHT: bold;
+FONT-STYLE: italic;
+
+}
+
+LI
+{ FONT-WEIGHT: bold;	FONT-SIZE: 14px;
+COLOR: #666666; FONT-FAMILY: Arial, Helvetica, sans-serif
+ }
+
+TD {
+	FONT-SIZE: 12px; COLOR: #666666; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+H3 {
+        COLOR: #666666; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+H4 {
+        FONT-SIZE: 12px; COLOR: #666666; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+UL {
+	MARGIN-TOP: 0px; FONT-SIZE: 12px; MARGIN-LEFT: 0px; COLOR: #666666; FONT-FAMILY: Arial, Helvetica, Sans-serif
+}
+L{
+        MARGIN-LEFT: 20px;
+}
+LL{ 
+  MARGIN-LEFT: 40px;
+}
+LLL{
+   MARGIN-LEFT: 60px;
+ }
+LLLL{ 
+  MARGIN-LEFT: 80px;
+ }
