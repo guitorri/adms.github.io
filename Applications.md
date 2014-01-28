@@ -11,4 +11,5 @@ This page gives two applications of adms.
       * Output XHTML+MathML file (IE5/IE6 only): [MOS1.html](tutorials/Ilya-Lisichkin/MOSlevel1/MOS1.html)
 
 ---
+
 Retrieved from [applications.html](http://vacomp.noovela.com/applications.html)

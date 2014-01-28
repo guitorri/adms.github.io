@@ -245,4 +245,6 @@ Type of each node of the tree is accessed using admstpath '/adms/datatypename'. 
 That's all for now! I will put more on the feaures of the admstpath/admst languages after the release of adms-2.2.5 - which should make the use of these languages a lot more easier.
 
 
+---
+
 Retrieved from [tutorials.html](http://vacomp.noovela.com/tutorials.html)
