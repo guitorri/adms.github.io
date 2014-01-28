@@ -14,7 +14,7 @@ for fin in $( ls *.md); do
 
   echo out: $fout.html
 
-  cmd="pandoc $fin -o $fout"
+  cmd="pandoc $fin -o $fout -c buttondown.css"
   echo $cmd
 
   # run command
