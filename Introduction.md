@@ -1,4 +1,4 @@
-[Contents](Contents.md)
+[Contents](Contents.html)
 
 ---
 
@@ -22,7 +22,7 @@ Typical run:
  * admsXml reads control file [myxml.xml](introduction/myxml.xml) and veriloga file [mysource.va](introduction/mysource.va). File [mysource.html](introduction/mysource.html) is created.
  * Note: files .adms.implicit.xml and .mysource.va.adms are created in background.
 
-The internal data structure of adms is auto-generated from file [adms.xml ?]() . This file is very important. The rules used to build a control file are based on its contents. More in section Documentations.
+The internal data structure of adms is auto-generated from file [adms.xml](doc/adms.xml.html). This file is very important. The rules used to build a control file are based on its contents. More in section Documentations.
 
 ## Related Links:
 

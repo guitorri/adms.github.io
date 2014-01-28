@@ -1,11 +1,11 @@
 # Contents
 
- * [News](News.md)
- * [Introduction](Introduction.md)
- * [Tutorial](Tutorials.md)
- * [Some control files (xml scripts) - learn by examples](Scripts.md)
+ * [News](News.html)
+ * [Introduction](Introduction.html)
+ * [Tutorial](Tutorials.html)
+ * [Some control files (xml scripts) - learn by examples](Scripts.html)
  * [Download](http://sourceforge.net/projects/mot-adms/)
- * [Applications](Applications.md)
+ * [Applications](Applications.html)
  * Documentation
    * [admst language - transforms used to transform the adms internal data tree](doc/admst.xml.html)
      * generated with: `xsltproc admst.xml > admst.xml.html`
@@ -14,6 +14,7 @@
    * [adms internal data tree](doc/adms.xml.html)
      * generated with: `xsltproc adms.xml > adms.xml.html`
  * Paper
+ * [Readme](Readme.html)
 
 ---
 
